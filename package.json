@@ -1,0 +1,19 @@
+{
+  "name": "angular-todo",
+  "version": "1.0.0",
+  "description": "angular todo module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caananay/angular-todo.git"
+  },
+  "author": "Ca-ananay Maduka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caananay/angular-todo/issues"
+  },
+  "homepage": "https://github.com/caananay/angular-todo#readme"
+}
